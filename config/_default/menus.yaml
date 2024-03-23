@@ -5,10 +5,10 @@
 
 main:
   - name: Home
-    url: '#about'/_index.md
+    url: content/_index.md
     weight: 10
   - name: Posts
-    url: '#posts'
+    url: content/post/_index.md
     weight: 20
   - name: Publications
     url: '#featured'
