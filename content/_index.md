@@ -23,7 +23,7 @@ sections:
     design:
       columns: '2'
       view: card
-      
+
 - block: collection
     id: posts
     content:
@@ -43,13 +43,23 @@ sections:
         exclude_future: false
         exclude_past: false
         publication_type: ""
-      # Choose how many pages you would like to offset by
+     default_button_index: 0
+     buttons:
+        - name: All
+          tag: '*'
+        - name: Personal
+          tag: personal
+        - name: Talks
+          tag: talks
+        - name: Work
+          tag: work
+     # Choose how many pages you would like to offset by
       offset: 0
       # Page order: descending (desc) or ascending (asc) date.
       order: desc
     design:
       # Choose a layout view
-      view: compact
+      view: showcase
       columns: '2'
 
   - block: collection
@@ -93,7 +103,6 @@ sections:
       email: juinyau95@gmail.com
       address:
         city: Seoul
-        region: CA
         postcode: '136-701'
         country: South Korea
   
