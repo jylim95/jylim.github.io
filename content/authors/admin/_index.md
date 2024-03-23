@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Juin Yau Lim (林俊耀)
+title: Juin Yau Lim 
 
 # Name pronunciation (optional)
 #name_pronunciation: Chien Shiung Wu
