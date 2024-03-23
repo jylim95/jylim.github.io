@@ -20,8 +20,8 @@ sections:
         folders:
           - publication
         featured_only: true
-    design:
-      columns: '2'
+      design:
+        columns: '2'
 
 - block: collection
     id: posts
