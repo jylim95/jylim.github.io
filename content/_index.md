@@ -20,10 +20,10 @@ sections:
         folders:
           - publication
         featured_only: true
-      design:
-        columns: '2'
+    design:
+      columns: '2'
 
-- block: collection
+  - block: collection
     id: posts
     content:
       title: Recent Posts
