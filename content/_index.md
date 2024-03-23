@@ -11,7 +11,6 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-
   - block: collection
     id: featured
     content:
@@ -22,7 +21,6 @@ sections:
         featured_only: true
     design:
       columns: '2'
-
   - block: collection
     id: posts
     content:
@@ -55,8 +53,6 @@ sections:
     design:
       view: showcase
       columns: '2'
-
-
   - block: collection
     content:
       title: Recent Publications
@@ -71,13 +67,11 @@ sections:
     design:
       columns: '2'
       view: citation
-
   - block: tag_cloud
     content:
       title: Popular Topics
     design:
       columns: '2'
-
   - block: markdown
     content:
       title: Gallery
@@ -86,7 +80,6 @@ sections:
         {{< gallery album="demo" >}}
     design:
       columns: '1'
-
   - block: contact
     id: contact
     content:
@@ -100,7 +93,6 @@ sections:
         city: Seoul
         postcode: '136-701'
         country: South Korea
-  
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
         latitude: '37.5894'
@@ -110,7 +102,6 @@ sections:
           icon_pack: fab
           name: Add me on LinkedIn!
           link: 'https://www.linkedin.com/in/jylim8/'
-
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
