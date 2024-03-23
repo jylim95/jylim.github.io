@@ -23,15 +23,13 @@ sections:
     design:
       columns: '2'
 
-  - block: collection
+    - block: collection
     id: posts
     content:
       title: Recent Posts
       subtitle: ''
       text: ''
-      # Choose how many pages you would like to display (0 = all pages)
       count: 5
-      # Filter on criteria
       filters:
         folders:
           - post
@@ -52,12 +50,9 @@ sections:
           tag: talks
         - name: Work
           tag: work
-     # Choose how many pages you would like to offset by
-    offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-    order: desc
+     offset: 0
+     order: desc
     design:
-      # Choose a layout view
       view: showcase
       columns: '2'
 
