@@ -5,7 +5,7 @@ authors:
 - Amelie Peter Affery
 - Jian Xiang Tan
 - Ian Yan Beng Ong
-- Juin Yau Lim
+- admin
 - ChangKyoo Yoo
 - Bing Shen How
 - Gabriel HT Ling
