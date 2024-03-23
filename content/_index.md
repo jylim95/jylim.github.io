@@ -23,7 +23,7 @@ sections:
     design:
       columns: '2'
 
-- block: collection
+  - block: collection
     id: posts
     content:
       title: Recent Posts
