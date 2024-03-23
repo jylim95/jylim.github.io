@@ -5,7 +5,7 @@
 
 main:
   - name: Home
-    url: '#about'
+    url: '#about'/_index.md
     weight: 10
   - name: Posts
     url: '#posts'
