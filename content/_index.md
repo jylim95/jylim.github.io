@@ -40,8 +40,8 @@ sections:
         exclude_future: false
         exclude_past: false
         publication_type: ""
-     default_button_index: 0
-     buttons:
+      default_button_index: 0
+      buttons:
         - name: All
           tag: '*'
         - name: Personal
@@ -50,8 +50,8 @@ sections:
           tag: talks
         - name: Work
           tag: work
-     offset: 0
-     order: desc
+      offset: 0
+      order: desc
     design:
       view: showcase
       columns: '2'
