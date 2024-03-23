@@ -22,7 +22,7 @@ sections:
         featured_only: true
     design:
       columns: '2'
-    
+
   - block: collection
     id: posts
     content:
