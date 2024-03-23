@@ -22,7 +22,6 @@ sections:
         featured_only: true
     design:
       columns: '2'
-      view: card
 
 - block: collection
     id: posts
