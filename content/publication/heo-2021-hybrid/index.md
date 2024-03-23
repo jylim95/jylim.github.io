@@ -6,7 +6,7 @@ authors:
 - SungKu Heo
 - KiJeon Nam
 - Shahzeb Tariq
-- Juin Yau Lim
+- admin
 - Junkyu Park
 - ChangKyoo Yoo
 date: '2021-01-01'
