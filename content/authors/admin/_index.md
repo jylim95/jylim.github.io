@@ -36,36 +36,19 @@ interests:
 
 # Education to show in About widget
 education:
-  - area: PhD Applied Environmental Science & Engineering
-    institution: Kyung Hee University (Global)
-    date_start: 2019-03-01
-    date_end: 2023-02-15
-    summary: |
-      Thesis on _Comprehensive guidance on the improvement of renewable energy penetration in sustainable manner considering overall system reliability at different spectrum: Power-to-X, Microalgae Biorefinery, and Hydrogen_. 
-      
-      Supervised by [Prof Chang Kyoo Yoo](https://scholar.google.com/citations?user=wKKFOOYAAAAJ&hl=en). 
-
-      CGPA: 4.0/4.3
-    button:
-      text: 'Read Thesis'
-      url: 'https://khu.dcollection.net/public_resource/pdf/200000655738_20240321115817.pdf'
-  - area: M.Eng Chemical and Environmental Engineering
-    institution: University of Nottingham
-    date_start: 2014-09-01
-    date_end: 2018-06-31
-    summary: |
-      Thesis on _Fertilizer Formulation in Oil Palm Plantation with Life Cycle Assessment and P-graph Optimization_. 
-
-      Supervised by [Prof. Hon Loong Lam](https://scholar.google.com.my/citations?user=WscM82AAAAAJ&hl=en). 
-      
-      GPA: 3.7/4.0
-
+  courses:
+    - course: PhD in Applied Environmental Science and Engineering
+      institution: Kyung Hee University (Global)
+      year: 2023
+    - course: M.Eng in Chemical Engineering & Environmental Engineering
+      institution: University of Nottingham
+      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-profiles:
+social:
   - icon: at-symbol
     url: 'mailto:juinyau95@gmail.com'
     label: E-mail Me
@@ -76,7 +59,6 @@ profiles:
   - icon: brands/orcid
     url: https://orcid.org/my-orcid?orcid=0000-0002-2691-4439
 
-
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -85,7 +67,9 @@ profiles:
   #  link: ./static/uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
+
 highlight_name: true
+
 ---
 
 Never the smartest mind in class but always the one not afraid of trying new things. My philosophy towards this world is all covered in one word: _BALANCE_, including my research career.
