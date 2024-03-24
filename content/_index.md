@@ -77,7 +77,7 @@ sections:
       title: Popular Topics
     design:
       columns: '2'
-  - block: contact-me
+  - block: contact
     id: contact-me
     content:
       title: Contact
