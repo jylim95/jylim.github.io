@@ -85,17 +85,17 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: juinyau95@gmail.com
       address:
-        city: Stanford
-        postcode: '94305'
-        country: United States
+        city: Seoul
+        postcode: '136-701'
+        country: South Korea
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
+        latitude: '37.5894'
+        longitude: '127.0325'  
       contact_links:
         - icon: linkedin
           icon_pack: fab
-          name: DM Me
+          name: Stay Connected!
           link: 'https://www.linkedin.com/in/jylim8/'
       # Automatically link email and phone or display as text?
       autolink: true
