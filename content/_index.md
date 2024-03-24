@@ -69,7 +69,7 @@ sections:
       title: Gallery
       subtitle: ''
       text: |-
-        {{< gallery album="demo" resize_options="600x webp q99">}}
+        {{< gallery album="demo" >}}
     design:
       columns: '2'
   - block: tag_cloud
