@@ -62,21 +62,16 @@ sections:
           - publication
         exclude_featured: true
     design:
-      columns: '1'
+      columns: '2'
       view: citation
   - block: markdown
     content:
-      title: Galleria
+      title: Gallery
       subtitle: ''
       text: |-
         {{< gallery album="demo" >}}
     design:
-      columns: '2'
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
+      columns: '1'
   - block: contact
     id: contact-me
     content:

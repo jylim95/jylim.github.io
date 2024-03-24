@@ -7,7 +7,7 @@ title: Juin Yau Lim
 
 # Full name (for SEO)
 first_name: Juin Yau
-last_name: Lim (林俊耀)
+last_name: Lim 
 
 # Status emoji
 status:
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Research Professor
+role: Research Professor (he/him/his)
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -32,6 +32,7 @@ interests:
   - Artificial Intelligence
   - Renewable Energy
   - Process System Engineering
+  - Sustainability Enhancement
 
 # Education to show in About widget
 education:
@@ -74,18 +75,18 @@ highlight_name: true
 
 ---
 
+*beep* 
+Hello world 👋 This is Juin Yau Lim (林俊耀). 
+
 Never the smartest mind in class but always the one not afraid of trying new things. 
 
-My philosophy towards this world is all covered in one word: _BALANCE_!
-
 Fun-fact:
-1. Enjoy playing with numbers _aka data analytics_, including AI, modeling, optimization, and blockchain. 
+1. Enjoy playing with numbers _aka data analytics_. Juggling around AI, modeling, optimization, and blockchain. 
 2. Polyglot, proficient in multiple languages. Try me!
-3. Always bridge the gap between research and industry.
+3. 100% cat friendly
 
 Thanks for spending time to understand me! 
 
-"Now, Good Night. And If There's An Apocalypse, Good Luck!" 
-by _Sheldon Cooper from Big Bang Theory_
+"Now, Good Night. And If There's An Apocalypse, Good Luck!" - _Sheldon Cooper from Big Bang Theory_
 
 {style="text-align: justify;"}
