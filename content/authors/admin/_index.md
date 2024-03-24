@@ -65,7 +65,7 @@ social:
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   # - icon: cv
-  #  icon_pack: ai
+  #  icon_pack: aiavatar
   #  link: ./static/uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
@@ -74,16 +74,16 @@ highlight_name: true
 
 ---
 
-Never the smartest mind in class but always the one not afraid of trying new things. My philosophy towards this world is all covered in one word: _BALANCE_, including my research career.
+Never the smartest mind in class but always the one not afraid of trying new things. 
+
+My philosophy towards this world is all covered in one word: _BALANCE_, including my research career.
 
 Fun-fact:
 1. Enjoy playing with numbers _aka data analytics_, including AI, modeling, optimization, and blockchain. 
-
 2. Polyglot, proficient in multiple languages. Try me!
-
 3. Always bridge the gap between research and industry.
 
-Thanks for spending time to understand me! 
+Thanks for spending time to understand me!  👋 
 
 "Now, Good Night. And If There's An Apocalypse, Good Luck!" 
 - _Sheldon Cooper from Big Bang Theory_
