@@ -50,7 +50,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: '/#contact-me'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=6vKIwTgAAAAJ&hl=en#
@@ -76,7 +76,7 @@ highlight_name: true
 
 Never the smartest mind in class but always the one not afraid of trying new things. 
 
-My philosophy towards this world is all covered in one word: _BALANCE_, including my research career.
+My philosophy towards this world is all covered in one word: _BALANCE_!
 
 Fun-fact:
 1. Enjoy playing with numbers _aka data analytics_, including AI, modeling, optimization, and blockchain. 
@@ -86,6 +86,6 @@ Fun-fact:
 Thanks for spending time to understand me! 
 
 "Now, Good Night. And If There's An Apocalypse, Good Luck!" 
-- _Sheldon Cooper from Big Bang Theory_
+by _Sheldon Cooper from Big Bang Theory_
 
 {style="text-align: justify;"}
