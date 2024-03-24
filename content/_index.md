@@ -18,7 +18,7 @@ sections:
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 1
+      count: 2
       # Filter on criteria
       filters:
         folders:
@@ -42,7 +42,7 @@ sections:
     id: featured
     content:
       title: Featured Publications
-      count: 1
+      count: 2
       filters:
         folders:
           - publication
@@ -55,14 +55,14 @@ sections:
       title: Recent Publications
       text: |-
         {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
+        You can filter all publications by clicking [here](./publication/).
         {{% /callout %}}
       filters:
         folders:
           - publication
         exclude_featured: true
     design:
-      columns: '2'
+      columns: '1'
       view: citation
   - block: markdown
     content:
@@ -77,8 +77,8 @@ sections:
       title: Popular Topics
     design:
       columns: '2'
-  - block: contact
-    id: contact
+  - block: contact-me
+    id: contact-me
     content:
       title: Contact
       email: juinyau95@gmail.com
