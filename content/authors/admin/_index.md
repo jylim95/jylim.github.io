@@ -83,7 +83,7 @@ Fun-fact:
 2. Polyglot, proficient in multiple languages. Try me!
 3. Always bridge the gap between research and industry.
 
-Thanks for spending time to understand me!  👋 
+Thanks for spending time to understand me! 
 
 "Now, Good Night. And If There's An Apocalypse, Good Luck!" 
 - _Sheldon Cooper from Big Bang Theory_
