@@ -66,7 +66,7 @@ sections:
       view: citation
   - block: markdown
     content:
-      title: Gallery
+      title: Galleria
       subtitle: ''
       text: |-
         {{< gallery album="demo" >}}
@@ -90,11 +90,6 @@ sections:
       coordinates:
         latitude: '37.5894'
         longitude: '127.0325'  
-      contact_links:
-        - icon: linkedin
-          icon_pack: fab
-          name: Stay Connected!
-          link: 'https://www.linkedin.com/in/jylim8/'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
