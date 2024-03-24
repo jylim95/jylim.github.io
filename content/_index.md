@@ -64,7 +64,7 @@ sections:
     design:
       columns: '2'
       view: citation
-    - block: markdown
+  - block: markdown
     content:
       title: Gallery
       subtitle: ''
