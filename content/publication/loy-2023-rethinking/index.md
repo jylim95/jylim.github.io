@@ -22,7 +22,7 @@ url_pdf: https://www.sciencedirect.com/science/article/pii/S0048969723020776
 
 tags:
 - First author
-featured: true
+featured: false
 
 image:
   caption: 'Graphical Abstract'

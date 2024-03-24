@@ -44,7 +44,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Juin Yau Lim. This work is licensed under {license}'
+    notice: '© {year} Juin Yau Lim - {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -61,6 +61,13 @@ locale:
 # Site features
 
 features:
+  show_related:
+    docs: false
+    page: false
+    post: true
+    project: true
+    publication: true
+    talk: true
   syntax_highlighter:
     theme_light: github-light
     theme_dark: dracula

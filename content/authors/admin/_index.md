@@ -49,15 +49,18 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: at-symbol
-    url: 'mailto:juinyau95@gmail.com'
-    label: E-mail Me
-  - icon: brands/google-scholar
-    url: https://scholar.google.com/citations?user=6vKIwTgAAAAJ&hl=en#
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/jylim8/
-  - icon: brands/orcid
-    url: https://orcid.org/my-orcid?orcid=0000-0002-2691-4439
+  - icon: envelope
+    icon_pack: fas
+    link: '/#contact'
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=6vKIwTgAAAAJ&hl=en#
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/jylim8/
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/my-orcid?orcid=0000-0002-2691-4439
 
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,

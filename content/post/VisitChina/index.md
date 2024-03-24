@@ -1,5 +1,5 @@
 ---
-title: Site visit to multiple, August 2023
+title: Site visit to Waste-to-Energy Plant in China, August 2023
 
 
 # Date published
@@ -32,7 +32,7 @@ tags:
 
 ## Overview
 
-- Hosted by CEO of the group (KS Wang) from [WEIHAI HY Group] (http://www.haoyanggroup.cn/)
+- Hosted by CEO of the group (KS Wang) from [WEIHAI HY Group](http://www.haoyanggroup.cn/)
 - Visited 6 different Waste-to-Energy plant at Northern part of China (Shandong, Hebei, Beijing)
 - Municipal solid waste incineration plant ranging from 500t/day ~ 3,000t/day
 

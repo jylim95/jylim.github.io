@@ -18,7 +18,7 @@ sections:
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 1
       # Filter on criteria
       filters:
         folders:
@@ -38,18 +38,11 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
   - block: collection
     id: featured
     content:
       title: Featured Publications
+      count: 1
       filters:
         folders:
           - publication
@@ -71,6 +64,14 @@ sections:
     design:
       columns: '2'
       view: citation
+    - block: markdown
+    content:
+      title: Gallery
+      subtitle: ''
+      text: |-
+        {{< gallery album="demo" >}}
+    design:
+      columns: '2'
   - block: tag_cloud
     content:
       title: Popular Topics
@@ -80,10 +81,6 @@ sections:
     id: contact
     content:
       title: Contact
-      subtitle:
-      text: |-
-        Let's stay connected!
-      # Contact (add or remove contact options as necessary)
       email: juinyau95@gmail.com
       address:
         city: Seoul

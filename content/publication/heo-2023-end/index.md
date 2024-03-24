@@ -21,7 +21,7 @@ abstract: The catalytic pyrolysis of Chlorella vulgaris, high-density polyethyle
 
 tags:
 - First author
-featured: true
+featured: false
 
 image:
   caption: 'Graphical Abstract'
