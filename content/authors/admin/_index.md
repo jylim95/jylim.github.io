@@ -76,10 +76,13 @@ I am interested on providing sustainable solution to complex engineering problem
 You can find my [publications](./publication/), [recent post](./post/), and my [full CV](/uploads/resume.pdf) in this webpage.
 
 **Fun-fact:**
-1. Enjoy playing with numbers _aka data analytics_.             📈
-2. Juggling around AI, modeling, optimization, and blockchain.  🖥️
-3. Polyglot, proficient in multiple languages. Try me!          🗣️
-4. 100% Cat friendly                                            🐱
+1. Enjoy playing with numbers _aka_ **Data Analytics**.             📈
+2. Juggling around **AI**, **modeling**, and **optimization**.      🖥️
+3. **Polyglot**, proficient in multiple languages. Try me!          🗣️
+4. 100% **Cat** friendly                                            🐱
+
+**Daily Interest & Hobbies**
+- Web 3, Blockchain, Hiking, Squash, & Traveling 
 
 **Summary:**
 Never the smartest mind in class but always the one not afraid of trying new things. 
@@ -87,6 +90,6 @@ Never the smartest mind in class but always the one not afraid of trying new thi
 Thanks for spending time to understand me! *Ciao*
 
 **"Now, Good Night. And If There's An Apocalypse, Good Luck!"** 
-- _Sheldon Cooper_ from Big Bang Theory
+by _Sheldon Cooper_ from [The Big Bang Theory](https://www.warnerbros.com/tv/big-bang-theory)
 
 {style="text-align: justify;"}

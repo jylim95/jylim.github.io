@@ -27,6 +27,8 @@ authors:
 tags:
   - talks
 
+categories:
+  - Talks
 ---
 
 ## Overview

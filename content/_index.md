@@ -11,6 +11,20 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+
+  - block: collection
+    id: featured
+    content:
+      title: Featured Publications
+      count: 2
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
+
   - block: collection
     id: posts
     content:
@@ -18,7 +32,7 @@ sections:
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 4
+      count: 3
       # Filter on criteria
       filters:
         folders:
@@ -40,19 +54,6 @@ sections:
       columns: '2'
 
   - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      count: 3
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '1'
-      view: card
-      flip_alt_rows: true
-  - block: collection
     content:
       title: Recent Publications
       text: |-
@@ -66,6 +67,7 @@ sections:
     design:
       columns: '2'
       view: citation
+
   - block: markdown
     content:
       title: Through My Eyes 
@@ -74,6 +76,7 @@ sections:
         {{< gallery album="demo" >}}
     design:
       columns: '1'
+      
   - block: contact
     id: contact-me
     content:
@@ -81,6 +84,7 @@ sections:
       email: juinyau95@gmail.com
       address:
         city: Seoul
+        postcode: '136-701'
         country: South Korea
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:

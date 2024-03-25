@@ -27,6 +27,8 @@ authors:
 tags:
   - personal
 
+categories:
+  - Personal
 ---
 
 ## Overview

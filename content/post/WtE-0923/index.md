@@ -26,6 +26,8 @@ authors:
 tags:
   - work
 
+categories:
+  - Work
 ---
 
 ## Overview
