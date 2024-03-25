@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Research Professor (he/him/his)
+role: Ph.D, M.Eng, AMIChemE (he/him/his)
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -75,18 +75,26 @@ highlight_name: true
 
 ---
 
-*beep* 
-Hello world 👋 This is Juin Yau Lim (林俊耀). 
+*beep-boop* 
 
+Hello world 👋 This is **Juin Yau Lim (林俊耀)**. 
+
+I am interested on providing sustainable solution to complex engineering problem with my substantial background in Chemical Engineering **(*M.Eng*)** and Environmental Engineering **(*PhD*)**. Devoted to bridge the gap between research and industry.
+
+You can find my [publications](./publication/), [recent post](./posts/), and my [full CV](./static/uploads/resume.pdf) in this webpage.
+
+**Fun-fact:**
+1. Enjoy playing with numbers _aka data analytics_.             📈
+2. Juggling around AI, modeling, optimization, and blockchain.  🖥️
+3. Polyglot, proficient in multiple languages. Try me!          🗣️
+4. 100% Cat friendly                                            🐱
+
+**Summary:**
 Never the smartest mind in class but always the one not afraid of trying new things. 
 
-Fun-fact:
-1. Enjoy playing with numbers _aka data analytics_. Juggling around AI, modeling, optimization, and blockchain. 
-2. Polyglot, proficient in multiple languages. Try me!
-3. 100% cat friendly
+Thanks for spending time to understand me! *Ciao*
 
-Thanks for spending time to understand me! 
-
-"Now, Good Night. And If There's An Apocalypse, Good Luck!" - _Sheldon Cooper from Big Bang Theory_
+**"Now, Good Night. And If There's An Apocalypse, Good Luck!"** 
+- _Sheldon Cooper_ from Big Bang Theory
 
 {style="text-align: justify;"}

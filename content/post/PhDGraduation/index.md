@@ -31,4 +31,4 @@ tags:
 
 ## Overview
 
-Officially graduated! 
+Officially graduated from Kyung Hee University [March 2019 - Feb 2023]

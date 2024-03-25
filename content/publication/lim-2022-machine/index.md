@@ -22,7 +22,7 @@ url_pdf: https://onlinelibrary.wiley.com/doi/10.1002/er.7565
 
 tags:
 - First author
-featured: true
+featured: false
 
 image:
   caption: 'Graphical Abstract'
