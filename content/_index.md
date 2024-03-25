@@ -37,7 +37,7 @@ sections:
     design:
       # Choose a layout view
       view: compact
-      columns: '1'
+      columns: '2'
 
   - block: collection
     id: featured
@@ -49,7 +49,7 @@ sections:
           - publication
         featured_only: true
     design:
-      columns: '2'
+      columns: '1'
       view: card
       flip_alt_rows: true
   - block: collection
@@ -64,7 +64,7 @@ sections:
           - publication
         exclude_featured: true
     design:
-      columns: '1'
+      columns: '2'
       view: citation
   - block: markdown
     content:
