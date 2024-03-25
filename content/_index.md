@@ -66,7 +66,7 @@ sections:
       view: citation
   - block: markdown
     content:
-      title: Gallery
+      title: Through the eyes of my lens 
       subtitle: ''
       text: |-
         {{< gallery album="demo" >}}
@@ -79,7 +79,6 @@ sections:
       email: juinyau95@gmail.com
       address:
         city: Seoul
-        postcode: '136-701'
         country: South Korea
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:

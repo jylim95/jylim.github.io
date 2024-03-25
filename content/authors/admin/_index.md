@@ -2,9 +2,6 @@
 # Display name
 title: Juin Yau Lim 
 
-# Name pronunciation (optional)
-#name_pronunciation: Chien Shiung Wu
-
 # Full name (for SEO)
 first_name: Juin Yau
 last_name: Lim 
@@ -32,7 +29,9 @@ interests:
   - Artificial Intelligence
   - Renewable Energy
   - Process System Engineering
-  - Sustainability Enhancement
+  - Waste Management
+  - Wastewater Treatment
+  - Air Pollution Control
 
 # Education to show in About widget
 education:
@@ -45,9 +44,6 @@ education:
       year: 2018
 
 # Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
@@ -61,16 +57,12 @@ social:
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/my-orcid?orcid=0000-0002-2691-4439
-
   # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
-  # - icon: cv
-  #  icon_pack: aiavatar
-  #  link: ./static/uploads/resume.pdf
+  - icon: cv
+    icon_pack: aiavatar
+    link: ./static/uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
-
 highlight_name: true
 
 ---
@@ -81,7 +73,7 @@ Hello world 👋 This is **Juin Yau Lim (林俊耀)**.
 
 I am interested on providing sustainable solution to complex engineering problem with my substantial background in Chemical Engineering **(*M.Eng*)** and Environmental Engineering **(*PhD*)**. Devoted to bridge the gap between research and industry.
 
-You can find my [publications](./publication/), [recent post](./posts/), and my [full CV](./static/uploads/resume.pdf) in this webpage.
+You can find my [publications](./publication/), [recent post](./post/), and my [full CV](./uploads/resume.pdf/) in this webpage.
 
 **Fun-fact:**
 1. Enjoy playing with numbers _aka data analytics_.             📈
