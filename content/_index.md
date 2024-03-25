@@ -15,6 +15,7 @@ sections:
     id: posts
     content:
       title: Recent Posts
+      count: 3
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -35,9 +36,9 @@ sections:
           tag: personal
     design:
       # Choose a layout view
-      view: showcase
+      view: compact
       columns: '1'
-      flip_alt_rows: true
+      flip_alt_rows: false
   - block: collection
     id: featured
     content:
@@ -50,6 +51,7 @@ sections:
     design:
       columns: '2'
       view: card
+      flip_alt_rows: true
   - block: collection
     content:
       title: Recent Publications

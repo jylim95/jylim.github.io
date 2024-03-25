@@ -59,7 +59,7 @@ social:
     link: https://orcid.org/my-orcid?orcid=0000-0002-2691-4439
   # Link to a PDF of your resume/CV.
   - icon: cv
-    icon_pack: aiavatar
+    icon_pack: ai
     link: ./static/uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
@@ -73,7 +73,7 @@ Hello world 👋 This is **Juin Yau Lim (林俊耀)**.
 
 I am interested on providing sustainable solution to complex engineering problem with my substantial background in Chemical Engineering **(*M.Eng*)** and Environmental Engineering **(*PhD*)**. Devoted to bridge the gap between research and industry.
 
-You can find my [publications](./publication/), [recent post](./post/), and my [full CV](./static/uploads/resume.pdf/) in this webpage.
+You can find my [publications](./publication/), [recent post](./post/), and my [full CV](./static/uploads/resume.pdf) in this webpage.
 
 **Fun-fact:**
 1. Enjoy playing with numbers _aka data analytics_.             📈
