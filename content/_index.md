@@ -11,33 +11,33 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: collection
+  - block: portfolio
     id: posts
     content:
       title: Recent Posts
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 2
+      count: 3
       # Filter on criteria
       filters:
         folders:
           - post
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
+      default_button_index: 0
+      buttons:
+        - name: All
+          tag: '*'
+        - name: Talks
+          tag: talks
+        - name: Work
+          tag: work
+        - name: Personal
+          tag: personal
     design:
       # Choose a layout view
-      view: compact
-      columns: '2'
+      view: showcase
+      columns: '1'
+      flip_alt_rows: true
   - block: collection
     id: featured
     content:
@@ -66,7 +66,7 @@ sections:
       view: citation
   - block: markdown
     content:
-      title: Through the eyes of my lens 
+      title: Through My Eyes 
       subtitle: ''
       text: |-
         {{< gallery album="demo" >}}
