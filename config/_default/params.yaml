@@ -20,7 +20,7 @@ marketing:
     org_name: ''
     description: 'This is Juin Yau Lim.'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-DEZGH045GX'
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''

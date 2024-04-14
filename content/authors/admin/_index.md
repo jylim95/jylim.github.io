@@ -73,7 +73,9 @@ Hello world 👋 This is **Juin Yau Lim (林俊耀)**.
 
 I am interested on providing sustainable solution to complex engineering problem with my substantial background in Chemical Engineering **(*M.Eng*)** and Environmental Engineering **(*PhD*)**. Devoted to bridge the gap between research and industry.
 
-You can find my [publications](./publication/), [recent post](./post/), [one page résumé](/uploads/resume_s.pdf) and my [full CV](/uploads/resume.pdf) in this webpage.
+You can find my [publications](./publication/), [recent post](./post/), and [one page résumé](/uploads/resume_s.pdf) in this webpage.
+
+If you have more time, feel free to read my [full CV](/uploads/resume.pdf)! 
 
 **Fun-fact:**
 1. Enjoy playing with numbers _aka_ **Data Analytics**.             📈
