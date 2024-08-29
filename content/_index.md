@@ -81,15 +81,15 @@ sections:
     id: contact-me
     content:
       title: Contact
-      email: juinyau95@gmail.com
+      email: limj@anl.gov
       address:
-        city: Seoul
-        postcode: '136-701'
-        country: South Korea
+        city: Illinois
+        postcode: '60439'
+        country: United States of America
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '37.5894'
-        longitude: '127.0325'  
+        latitude: '41.7183'
+        longitude: '87.9789'  
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider

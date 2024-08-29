@@ -18,8 +18,8 @@ role: Ph.D, M.Eng, AMIChemE (he/him/his)
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Korea University
-    url: https://www.korea.ac.kr/
+  - name: Argonne National Laboratory
+    url: https://www.anl.gov/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Passionate sustainable practitioner that seeks solutions with modern approaches.

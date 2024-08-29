@@ -1,6 +1,5 @@
 ---
-title: Optimal planning of inter-plant hydrogen integration (IPHI) in eco-industrial
-  park with P-graph and game theory analyses
+title: Optimal planning of inter-plant hydrogen integration (IPHI) in eco-industrial park with P-graph and game theory analyses
 authors:
 - Amelie Peter Affery
 - Jian Xiang Tan
