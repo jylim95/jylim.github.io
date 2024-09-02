@@ -11,7 +11,7 @@ authors:
 - Hyeok Sang Oh
 - Jong-Min Oh
 date: '2024-10-01'
-publishDate: '2024-10-01T11:37:00.032859Z'
+publishDate: '2024-09-01T11:37:00.032859Z'
 publication_types:
 - article-journal
 publication: '*Journal of Environmental Chemical Engineering*'
