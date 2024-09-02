@@ -10,7 +10,7 @@ authors:
 - Joo Young Park
 - Hyeok Sang Oh
 - Jong-Min Oh
-date: '2022-10-01'
+date: '2024-10-01'
 publishDate: '2024-10-01T11:37:00.032859Z'
 publication_types:
 - article-journal
