@@ -13,19 +13,6 @@ sections:
       username: admin
 
   - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      count: 2
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
-
-  - block: collection
     id: posts
     content:
       title: Recent Posts
@@ -53,6 +40,19 @@ sections:
       view: compact
       columns: '2'
 
+    - block: collection
+    id: featured
+    content:
+      title: Featured Publications
+      count: 2
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
+  
   - block: collection
     content:
       title: Recent Publications

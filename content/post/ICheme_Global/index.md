@@ -2,10 +2,10 @@
 title: Honored with Highly Commended in 30th IChemE Global Award!
 
 # Date published
-date: '2024-12-01T00:00:00Z'
+date: '2024-11-28T00:00:00Z'
 
 # Date updated
-lastmod: '2024-12-01T00:00:00Z'
+lastmod: '2024-11-28T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false

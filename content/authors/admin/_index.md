@@ -26,12 +26,11 @@ bio: Passionate sustainable practitioner that seeks solutions with modern approa
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
   - Renewable Energy
   - Process System Engineering
-  - Waste Management
-  - Wastewater Treatment
-  - Air Pollution Control
+  - Artificial Intelligence
+  - Waste-to-Energy
+  - Environmental Management
 
 # Education to show in About widget
 education:
@@ -83,15 +82,8 @@ If you have more time, feel free to read my [full CV](/uploads/resume.pdf)!
 3. **Polyglot**, proficient in multiple languages. Try me!          🗣️
 4. 100% **Cat** friendly                                            🐱
 
-**Daily Interest & Hobbies**
-- Web 3, Blockchain, Hiking, Squash, & Traveling 
-
-**Summary:**
 Never the smartest mind in class but always the one not afraid of trying new things. 
 
 Thanks for spending time to understand me! *Ciao*
-
-**"Now, Good Night. And If There's An Apocalypse, Good Luck!"** 
-by _Sheldon Cooper_ from [The Big Bang Theory](https://www.warnerbros.com/tv/big-bang-theory)
 
 {style="text-align: justify;"}
