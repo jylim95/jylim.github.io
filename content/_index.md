@@ -12,7 +12,20 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 
-  - block: collection
+    - block: collection
+    id: featured
+    content:
+      title: Featured Publications
+      count: 2
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
+
+    - block: collection
     id: posts
     content:
       title: Recent Posts
@@ -39,19 +52,6 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-
-    - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      count: 2
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
   
   - block: collection
     content:
