@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
-  font_size: M
+  theme_day: ocean
+  theme_night: dark
+  font: native
+  font_size: L
 
 # SEO
 
@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'This is Juin Yau Lim.'
+    description: 'Dr. Juin Yau Lim - Sustainable Engineering Expert | Ph.D in Applied Environmental Science | Process Systems Engineering | AI & Renewable Energy Research'
   analytics:
     google_analytics: 'G-DEZGH045GX'
     baidu_tongji: ''
@@ -33,7 +33,7 @@ marketing:
 header:
   navbar:
     enable: true
-    align: l
+    align: c
     show_logo: true
     show_language: false
     show_day_night: true
@@ -44,7 +44,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Juin Yau Lim - {license}'
+    notice: '© {year} Dr. Juin Yau Lim - {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -62,8 +62,8 @@ locale:
 
 features:
   show_related:
-    docs: false
-    page: false
+    docs: true
+    page: true
     post: true
     project: true
     publication: true
@@ -72,11 +72,11 @@ features:
     theme_light: github-light
     theme_dark: dracula
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/jylim95/jylim.github.io'
     content_dir: content
     branch: main
   avatar:

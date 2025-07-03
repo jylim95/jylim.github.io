@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Juin Yau Lim # Website name
+title: Dr. Juin Yau Lim - Sustainable Engineering Expert # Website name
 baseURL: 'https://jy-lim.com/' # Website URL
 
 ############################
@@ -19,7 +19,7 @@ removePathAccents: true
 ## ADVANCED
 ############################
 
-enableGitInfo: false
+enableGitInfo: true
 summaryLength: 30
 paginate: 10
 enableEmoji: true
@@ -47,6 +47,21 @@ taxonomies:
   author: authors
 markup:
   _merge: deep
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    anchorLineNos: false
+    codeFences: true
+    guessSyntax: false
+    hl_Lines: ""
+    lineAnchors: ""
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+    noClasses: false
+    style: github
+    tabWidth: 4
 related:
   threshold: 80
   includeNewer: true
@@ -58,13 +73,49 @@ related:
       weight: 70
 security:
   _merge: deep
-sitemap:
-  _merge: deep
-minify:
-  _merge: deep
-
-security:
   funcs:
     getenv:
       - ^HUGO_
       - ^WC_
+sitemap:
+  _merge: deep
+  changefreq: monthly
+  filename: sitemap.xml
+  priority: 0.5
+minify:
+  _merge: deep
+  disableCSS: false
+  disableHTML: false
+  disableJS: false
+  disableJSON: false
+  disableSVG: false
+  disableXML: false
+  minifyOutput: true
+  tdewolff:
+    css:
+      keepCSS2: true
+      precision: 0
+    html:
+      keepConditionalComments: true
+      keepDefaultAttrVals: true
+      keepDocumentTags: true
+      keepEndTags: true
+      keepQuotes: false
+      keepWhitespace: false
+    js:
+      keepVarNames: false
+      precision: 0
+    json:
+      keepNumbers: false
+      precision: 0
+    svg:
+      keepComments: false
+      precision: 0
+    xml:
+      keepWhitespace: false
+
+# Additional SEO and Performance Settings
+params:
+  title: Dr. Juin Yau Lim
+  author: Dr. Juin Yau Lim
+  description: Sustainable Engineering Expert | Ph.D in Applied Environmental Science | Process Systems Engineering | AI & Renewable Energy Research
